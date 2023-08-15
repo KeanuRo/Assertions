@@ -1,0 +1,19 @@
+{
+  "name": "keanuro/assertions",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "keanu",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Assert\\": "src"
+    }
+  },
+  "require": {
+  }
+}
